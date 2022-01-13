@@ -40,5 +40,5 @@
 <br/>
 <br/>
 <a href="https://github.com/hibnastiar27">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hibnastiar27&show_icons=true&theme=radical&line_height=27" alt="Aria github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hibnastiar27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Aria github stats"/>
 </a>
