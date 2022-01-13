@@ -9,16 +9,16 @@
 **Cennect with me:**
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/nur-aria-hibnastiar-78161b229/">
+<a href="https://www.linkedin.com/in/nur-aria-hibnastiar-78161b229/" target="_blank">
 <img align="left" alt="Aria Linkdein" width="22px" src="img/linkedin.png"/>
 </a>
-<a href="https://github.com/hibnastiar27">
+<a href="https://github.com/hibnastiar27" target="_blank">
 <img align="left" alt="Aria Github" width="22px" src="img/github.png"/>
 </a>
-<a href="https://instagram.com/nurhibnastiar1">
+<a href="https://instagram.com/nurhibnastiar1" target="_blank">
 <img align="left" alt="Aria Instagram" width="22px" src="img/instagram.png" />
 </a>
-<a href="https://dribbble.com/nurhibnastiar">
+<a href="https://dribbble.com/nurhibnastiar" target="_blank">
 <img align="left" alt="Aria dribbble" width="22px" src="img/dribbble.png" />
 </a>
 <br/>
