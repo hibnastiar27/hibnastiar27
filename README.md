@@ -1,7 +1,6 @@
 ### Hi there I'm Aria, welcome to my profile 👋
 
 - 🌱 I’m currently learning Web development and UI design
-- 👯 I’m looking to collaborate on figma and github
 - 💬 Ask me about anything
 - 📫 How to reach me: nurhibnastiar@gmail.com
 - ⚡ Fun fact: the earth is triangle
