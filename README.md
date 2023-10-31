@@ -14,10 +14,10 @@
 <a target="_blank" href="https://github.com/hibnastiar27">
 <img align="left" alt="Aria Github" width="22px" src="img/github.png"/>
 </a>
-<a target="_blank" href="https://instagram.com/nurhibnastiar1" >
+<a target="_blank" href="https://www.instagram.com/aria.justtry" >
 <img align="left" alt="Aria Instagram" width="22px" src="img/instagram.png" />
 </a>
-<a target="_blank" href="https://dribbble.com/nurhibnastiar">
+<a target="_blank" href="https://dribbble.com/apapun">
 <img align="left" alt="Aria dribbble" width="22px" src="img/dribbble.png" />
 </a>
 <br/>
