@@ -7,7 +7,7 @@
 **Cennect with me:**
 <br/>
 <br/>
-<a target="_blank" href="https://www.linkedin.com/in/nur-aria-hibnastiar-78161b229/](https://www.linkedin.com/in/hibnastiar/">
+<a target="_blank" href="https://www.linkedin.com/in/hibnastiar/">
 <img align="left" alt="Aria Linkdein" width="22px" src="img/linkedin.png"/>
 </a>
 <a target="_blank" href="https://github.com/hibnastiar27">
