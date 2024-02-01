@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning Web development and UI design
 - 💬 Ask me about anything
 - 📫 How to reach me: nurhibnastiar@gmail.com
-- ⚡ Fun fact: the earth is triangle
 
 **Cennect with me:**
 <br/>
 <br/>
-<a target="_blank" href="https://www.linkedin.com/in/nur-aria-hibnastiar-78161b229/">
+<a target="_blank" href="https://www.linkedin.com/in/nur-aria-hibnastiar-78161b229/](https://www.linkedin.com/in/hibnastiar/">
 <img align="left" alt="Aria Linkdein" width="22px" src="img/linkedin.png"/>
 </a>
 <a target="_blank" href="https://github.com/hibnastiar27">
@@ -17,12 +16,10 @@
 <a target="_blank" href="https://www.instagram.com/aria.justtry" >
 <img align="left" alt="Aria Instagram" width="22px" src="img/instagram.png" />
 </a>
-<a target="_blank" href="https://dribbble.com/apapun">
-<img align="left" alt="Aria dribbble" width="22px" src="img/dribbble.png" />
-</a>
 <br/>
 <br/>
 
+<!--
 **Languages and Tools:**
 
 <p>
@@ -40,4 +37,4 @@
 <br/>
 <a href="https://github.com/hibnastiar27">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hibnastiar27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Aria github stats"/>
-</a>
+</a> -->
