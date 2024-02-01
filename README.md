@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Web development and UI design
 - 💬 Ask me about anything
-- 📫 How to reach me: nurhibnastiar@gmail.com
+- 📫 How to reach me: nurhibnastiar1@gmail.com
 
 **Cennect with me:**
 <br/>
