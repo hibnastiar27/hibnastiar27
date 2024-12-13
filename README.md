@@ -1,4 +1,7 @@
-### Hi there I'm Aria, welcome to my profile 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=303&center=true&vCenter=true&width=500&height=100&lines=Hi+there+I'm+Aria+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+---
+<br>
 
 - 🌱 I’m currently learning Fullstack Website & Ai
 - 💬 Ask me about anything
