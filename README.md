@@ -22,7 +22,8 @@
 
 ## **Wakatime**
 
-<img src="https://wakatime.com/share/@c2503bdb-9bfc-4d7f-a08c-86c8171b582b/499a93df-9641-4c2b-9ae9-2d8cb301b45c.svg">
+<!-- <img src="https://wakatime.com/share/@c2503bdb-9bfc-4d7f-a08c-86c8171b582b/499a93df-9641-4c2b-9ae9-2d8cb301b45c.svg"> -->
+<img src="https://wakatime.com/share/@c2503bdb-9bfc-4d7f-a08c-86c8171b582b/b9ea27fd-34e5-4c82-baca-cba966327c7c.svg">
 
 <!-- <a href="https://github.com/hibnastiar27">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hibnastiar27&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Aria github stats"/>
