@@ -19,6 +19,9 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aria.log1) 
 [![YouTube](https://img.shields.io/badge/Twitter%20-%231e1e1e.svg?logo=x&logoColor=white)](https://x.com/arialog1) 
 
+## **Stats Github**
+<!-- ![Hibnastiar27 GitHub stats](https://github-readme-stats.vercel.app/api?username=hibnastiar27&show_icons=true&theme=dark&include_all_commits=true&count_private=true)-->
+![Hibnastiar27 GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hibnastiar27&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
 ## **Wakatime**
 
