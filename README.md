@@ -38,6 +38,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hibnastiar27&theme=dark)
 
+![Productive Time](./profile-summary-card-output/github_dark/4-productive-time.svg)
+
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hibnastiar27&theme=react-dark&hide_border=true)
 
 </div>
