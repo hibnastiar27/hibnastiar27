@@ -27,7 +27,7 @@
 
 ## **Tech Stack**
 
-![HTML](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,git,github,vscode&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,ts,vue,svelte,bun,git,docker,aws,kubernetes&theme=dark)
 
 ## **GitHub Stats**
 
