@@ -38,8 +38,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=hibnastiar27&theme=dark)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hibnastiar27&theme=react-dark&hide_border=true)
-
 </div>
 
 ## **Wakatime**
